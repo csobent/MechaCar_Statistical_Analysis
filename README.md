@@ -15,3 +15,7 @@ Module 15 Challenge
 As pictured above, we can see that the variance is 62.29356, which falls within the design specifications of not exceeding 100 pounds per square inch. Therefore, when viewing the total summary, the manufacturing data meets this design specification. While looking at the lot summaries, pcitured below, lots 1 (var=0.97959) and 2 (var=7.46939) fall within the specifications, while lot 3 exceeds those specifications. Therefore, only 2 out of the three lots meet these specifications.
 
 ![lot_summary.png](Images/lot_summary.png)
+
+## T-Tests on Suspension Coils
+![first_ttest.png](Images/first_ttest.png)
+In the first t-test, we needed to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1500 pounds per square inch. As we can see the p-value is equal to 0.06028. Assuming a significance level of 0.05, we can determine that there is not sufficient evidence or it is not statistically different.
