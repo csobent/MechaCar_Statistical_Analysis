@@ -6,3 +6,6 @@ Module 15 Challenge
 ![NonRandom_variance.png](Images/NonRandom_variance.png)
 - **Is the slope of the linear model considered to be zero? Why or why not?** The slope of this linear model is not considered zero. If we look at our p-value, which is 5.35e-11, it is much smaller than the assumed significance level of 0.05% and disproves the null hypothesis.
 - **Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?** When looking at the multiple R-squared value of 0.7149, we can see that this value falls between the ideal range for r-sqaured values of 0 and 1. This means that approximately 71% of the variability of our dependent variable can be explained using this multiple linear regression model.
+
+## Summary Statistics on Suspension Coils
+- **The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?**
