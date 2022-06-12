@@ -20,3 +20,7 @@ As pictured above, we can see that the variance is 62.29356, which falls within 
 ![first_ttest.png](Images/first_ttest.png)
 
 In the first t-test, we needed to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1500 pounds per square inch. As we can see the p-value is equal to 0.06028. Assuming a significance level of 0.05, we can determine that there is not sufficient evidence or it is not statistically different. Therefore, we fail to reject the null hypothesis.
+
+![lot1_ttest.png](Images/lot1_ttest.png)
+![lot2_ttest.png](Images/lot2_ttest.png)
+![lot3_ttest.png](Images/lot3_ttest.png)
